@@ -1,4 +1,5 @@
 New first line from master branch.
+Adding new first line.
 Something in my text file.
 Something else in my text file.
 Third thing in my text file.
