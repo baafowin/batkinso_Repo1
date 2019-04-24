@@ -1,1 +1,2 @@
 Something in my text file.
+Something else in my text file.
