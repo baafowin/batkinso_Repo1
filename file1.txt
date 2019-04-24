@@ -1,2 +1,3 @@
 Something in my text file.
 Something else in my text file.
+Third thing in my text file.
